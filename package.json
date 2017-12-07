@@ -1,0 +1,18 @@
+{
+  "name": "strict-dict",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "git@github.com:caiogondim/strict-dict.js.git",
+  "author": "Caio Gondim <me@caiogondim.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "global-object": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  },
+  "scripts": {
+    "test": "ava test/"
+  }
+}
