@@ -12,10 +12,12 @@
   },
   "devDependencies": {
     "ava": "^0.24.0",
-    "microbundle": "^0.2.4"
+    "coveralls": "^3.0.0",
+    "microbundle": "^0.2.4",
+    "nyc": "^11.3.0"
   },
   "scripts": {
-    "test": "ava test/",
+    "test": "nyc ava test/",
     "build": "microbundle lib/index.js -o build/"
   }
 }
