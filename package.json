@@ -2,6 +2,7 @@
   "name": "strict-dict",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "browser": "build/strict-dict.umd.js",
   "repository": "git@github.com:caiogondim/strict-dict.js.git",
   "author": "Caio Gondim <me@caiogondim.com>",
   "license": "MIT",
