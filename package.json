@@ -10,9 +10,11 @@
     "global-object": "^1.0.0"
   },
   "devDependencies": {
-    "ava": "^0.24.0"
+    "ava": "^0.24.0",
+    "microbundle": "^0.2.4"
   },
   "scripts": {
-    "test": "ava test/"
+    "test": "ava test/",
+    "build": "microbundle lib/index.js -o build/"
   }
 }
