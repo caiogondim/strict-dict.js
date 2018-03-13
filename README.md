@@ -1,8 +1,8 @@
 <img src="./logo/banner.svg" width="100%" />
 
-<h1 align="center">strict-dict.js</h1>
+# strict-dict
 
-<div align="center">
+<div>
   <img src="http://travis-ci.org/caiogondim/strict-dict.js.svg?branch=master" alt="Travis CI"> <img src="http://img.badgesize.io/caiogondim/strict-dict.js/master/build/strict-dict.umd.js?compression=gzip"> <img src='https://coveralls.io/repos/github/caiogondim/strict-dict.js/badge.svg' alt='Coverage Status' />
 </div>
 
