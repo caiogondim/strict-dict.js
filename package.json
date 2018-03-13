@@ -1,6 +1,6 @@
 {
   "name": "strict-dict",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "browser": "build/strict-dict.umd.js",
   "repository": "git@github.com:caiogondim/strict-dict.js.git",
