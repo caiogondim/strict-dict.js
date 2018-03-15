@@ -5,6 +5,7 @@
   "browser": "build/strict-dict.umd.js",
   "repository": "git@github.com:caiogondim/strict-dict.js.git",
   "author": "Caio Gondim <me@caiogondim.com>",
+  "description": "Object (dictionary) that throws TypeError when trying to get an undefined property",
   "license": "MIT",
   "private": false,
   "dependencies": {
