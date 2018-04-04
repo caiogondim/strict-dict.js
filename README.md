@@ -1,4 +1,4 @@
-<img src="./logo/banner.svg" width="100%" />
+<img src="https://rawgit.com/caiogondim/strict-dict.js/master/logo/banner.svg" width="100%">
 
 # strict-dict
 
